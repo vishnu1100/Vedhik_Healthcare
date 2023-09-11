@@ -38,7 +38,7 @@ You can access the live demo of the website at [here](https://vishnu1100.github.
 - HTML5: Provides the structure and layout for the music player.
 - CSS3: Handles the styling and visual presentation of the player.
 - JavaScript: Implements the interactive features and functionality of the player.
-- [Your Favorite Audio Library]: Handles the audio playback and manipulation.
+
 
 
 
